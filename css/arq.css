@@ -1,0 +1,32 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+body{
+    width: 1440px;
+    height: 400px;
+}
+.cabecalho{
+    width: 100%;
+    height: 70px;
+    background-color: #ef9ca4;
+    color: #fae2e2;
+}
+
+h1{
+    padding-top: 20px;
+    padding-left: 30px;
+}
+
+.first{
+    padding-top: 10%;
+    max-width: 400px;
+    border: 1px solid #4ce0a2;
+    margin:auto;
+    padding-top: 30px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
